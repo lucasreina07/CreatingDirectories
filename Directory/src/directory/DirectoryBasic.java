@@ -21,7 +21,7 @@ public class DirectoryBasic {
 
         //----------------------------------------------------------------
         //Atributos basicos de archivos.
-        Path file = Paths.get("C:\\Users\\AlienWare\\Pictures\\kali.png");
+        Path file = Paths.get("C:...");
 
         try {
             System.out.println("Atributos basicos de archivos");
